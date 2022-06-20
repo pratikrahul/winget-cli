@@ -28,7 +28,9 @@ RemediationApproach:
       FixDetails:
         PSFConfig:
           applications:
+            -
           processes:
+            -
 
 MinimumPSFVersion: 1.0.200410.1
 
