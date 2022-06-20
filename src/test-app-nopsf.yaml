@@ -27,10 +27,8 @@ RemediationApproach:
       Reference: https://github.com/Microsoft/MSIX-PackageSupportFramework/tree/master/fixups/FileRedirectionFixup
       FixDetails:
         PSFConfig:
-          applications:
-            
-          processes:
-            
+          applications: []
+          processes: []
 
 MinimumPSFVersion: 1.0.200410.1
 
